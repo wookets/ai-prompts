@@ -20,3 +20,8 @@
 /imagine prompt:coloring pages for adults, , in the style of Black and white, Jagged lines, High Detail, Geometric background, Black and white, No Shading, --ar 9:16
 
 /imagine prompt:coloring pages for adults, , in the style of Pop art, Squiggly lines, High Detail, Celtic knotwork background, Black and white, No Shading, --ar 9:16
+
+## Awesome Styles
+
+person with backpack standing on top of mountain, in the style of vibrant palette, anime art, 32k uhd, painted illustrations, high resolution --ar 1:2
+
