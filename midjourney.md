@@ -27,6 +27,7 @@ person with backpack standing on top of mountain, in the style of vibrant palett
 
 the at at with two soldiers walking around in the desert, in the style of light sky-blue and dark white, futuristic spacecraft design, angura kei, rusty debris, subtle color variations, pencilsteampunk, detail-oriented --ar 9:16 --c 11 --s 555 --v 5.1
 
+An illustration of a quaint town square with a clock tower, in the style of Victor Horta, cottagecore aesthetic, intricate details, cute, --ar 2:3  --v 5 --s 750
 
 ## Maps
 
