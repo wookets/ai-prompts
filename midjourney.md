@@ -25,3 +25,11 @@
 
 person with backpack standing on top of mountain, in the style of vibrant palette, anime art, 32k uhd, painted illustrations, high resolution --ar 1:2
 
+the at at with two soldiers walking around in the desert, in the style of light sky-blue and dark white, futuristic spacecraft design, angura kei, rusty debris, subtle color variations, pencilsteampunk, detail-oriented --ar 9:16 --c 11 --s 555 --v 5.1
+
+
+## Maps
+
+diving view of a continent map with mountains chains at the middle, with woods around the mountains and medieval cities, one at the top and one downstairs, with also one big isle at the right of the continent and three little isles at the left of the continent, HD, photo-realistic --s 750 --v 5 --ar 12:16
+
+
